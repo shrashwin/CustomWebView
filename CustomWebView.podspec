@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/shrashwin/CustomWebView.git", :tag => "1.0.0" }
 
   s.source_files = "CustomWebView"
-
+  s.swift_version = "4.1" 
 
 end
