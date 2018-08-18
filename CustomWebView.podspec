@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "CustomWebView"
-    s.version      = "1.0.0"
+    s.version      = "1.0.1"
   s.summary      = "Custom web view is a custom view. I have made this to test "
   s.description  = "Custom web view is a custom view. I have made this to test and see the process of creating the pod for my sample libraries"
   s.homepage     = "https://futurepathways.com.np"
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "https://github.com/shrashwin/CustomWebView.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/shrashwin/CustomWebView.git", :tag => "1.0.1" }
 
   s.source_files = "CustomWebView"
   s.swift_version = "4.1" 
