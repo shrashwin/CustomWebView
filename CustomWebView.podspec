@@ -10,8 +10,7 @@ Pod::Spec.new do |s|
   s.name         = "CustomWebView"
     s.version      = "1.0.0"
   s.summary      = "A short description of CustomWebView."
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "this is description"
   s.homepage     = "http://EXAMPLE/CustomWebView"
   s.license      = "MIT"
   s.author             = { "shrashwiniw" => "" }
