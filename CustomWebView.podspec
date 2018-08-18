@@ -10,8 +10,8 @@ Pod::Spec.new do |s|
   s.name         = "CustomWebView"
     s.version      = "1.0.0"
   s.summary      = "A short description of CustomWebView."
-  s.description  = "this is description"
-  s.homepage     = "http://EXAMPLE/CustomWebView"
+  s.description  = "Custom web view is a custom view. I have made this to test and see the process of creating the pod for my sample libraries"
+  s.homepage     = "https://futurepathways.com.np"
   s.license      = "MIT"
   s.author             = { "shrashwiniw" => "" }
   s.platform     = :ios
