@@ -8,9 +8,9 @@ CustomWebView is an web view library written in swift.
 * Xcode 8.3+
 
 
-##Installation
+## Installation
 
-###CocoaPods
+### CocoaPods
 
 CocoaPods is a dependency manager for Cocoa projects. You can install it with the following command:
 
@@ -32,6 +32,6 @@ $ pod install
 
 
 
-##License
+## License
 
 CustomWebView1 is released under the MIT license. See LICENSE for details.
